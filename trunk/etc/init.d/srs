@@ -14,7 +14,7 @@
 # it's ok to use the script by command ./etc/init.d/ossrs
 ROOT="./"
 APP="./objs/srs"
-CONFIG="./conf/srs.conf"
+CONFIG="./conf/live360.conf"
 DEFAULT_PID_FILE='./objs/srs.pid'
 DEFAULT_LOG_FILE='./objs/srs.log'
 
